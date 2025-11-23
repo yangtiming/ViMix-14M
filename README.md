@@ -4,7 +4,7 @@
 
 Timing Yang, Feng Wang, Sucheng Ren, Alan Yuille | Johns Hopkins University
 
-[[Paper]](https://arxiv.org/abs/XXXX.XXXXX) [[Dataset]](https://huggingface.co/datasets/your-org/ViMix-14M)
+[[Paper]](https://arxiv.org/abs/XXXX.XXXXX) [[Dataset]](https://huggingface.co/datasets/Timing1/ViMix-14M)
 
 ---
 
