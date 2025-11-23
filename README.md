@@ -1,8 +1,10 @@
 # ViMix-14M: A Curated Multi-Source Video-Text Dataset
 
-**ViMix-14M: A Curated Multi-Source Video–Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access**
+Official PyTorch implementation of **"ViMix-14M: A Curated Multi-Source Video–Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access"**
 
-Timing Yang, Feng Wang, Sucheng Ren, Alan Yuille | Johns Hopkins University
+**Authors:** Timing Yang, Feng Wang, Sucheng Ren, Alan Yuille 
+
+Johns Hopkins University
 
 [[Paper]](https://arxiv.org/abs/XXXX.XXXXX) [[Dataset]](https://huggingface.co/datasets/Timing1/ViMix-14M)
 
