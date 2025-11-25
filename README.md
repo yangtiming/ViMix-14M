@@ -99,7 +99,3 @@ Our captions enable accurate answers to diverse question types including **objec
 }
 
 ```
-
-## License
-
-Apache 2.0 License
