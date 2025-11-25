@@ -6,7 +6,7 @@ Official PyTorch implementation of **"ViMix-14M: A Curated Multi-Source Video–
 
 Johns Hopkins University
 
-[[Paper]](https://arxiv.org/abs/XXXX.XXXXX) [[Dataset]](https://huggingface.co/datasets/Timing1/ViMix-14M)
+[[Paper]](https://arxiv.org/abs/2511.18382) [[Dataset]](https://huggingface.co/datasets/Timing1/ViMix-14M)
 
 ---
 
@@ -88,14 +88,16 @@ Our captions enable accurate answers to diverse question types including **objec
 
 ---
 
+
 ## Citation
 ```bibtex
 @article{yang2025vimix,
   title={ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access},
   author={Yang, Timing and Wang, Feng and Ren, Sucheng and Yuille, Alan},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2511.18382},
   year={2025}
 }
+
 ```
 
 ## License
