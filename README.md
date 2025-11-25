@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **"ViMix-14M: A Curated Multi-Source Video–Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access"**
 
-**Authors:** Timing Yang, Feng Wang, Sucheng Ren, Alan Yuille 
+**Authors:** Timing Yang, Sucheng Ren, Alan Yuille, Feng Wang*
 
 Johns Hopkins University
 
@@ -93,7 +93,7 @@ Our captions enable accurate answers to diverse question types including **objec
 ```bibtex
 @article{yang2025vimix,
   title={ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access},
-  author={Yang, Timing and Wang, Feng and Ren, Sucheng and Yuille, Alan},
+  author={Yang, Timing and Ren, Sucheng and Yuille, Alan and Wang, Feng},
   journal={arXiv preprint arXiv:2511.18382},
   year={2025}
 }
